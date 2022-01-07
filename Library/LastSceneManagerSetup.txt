@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/World_in_Miniature.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
